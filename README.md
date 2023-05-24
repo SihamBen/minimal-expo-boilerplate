@@ -1,16 +1,18 @@
 # minimal-expo-boilerplate
 
-Minimal boilerplate that can be used to build expo side project.
+Minimal boilerplate for your weekend project.
 
-The goal of this boilerplate is to provide a minimal setup to avoid the hassle of setting up a new project from scratch, and make experimentation with new project idea easier.
+The goal of this boilerplate is to provide a minimal setup to avoid the hassle of setting up a new project from scratch when experimenting with new project ideas easier.
 ## Features
 
 - [x] Typescript
-- [x] Prettier
 - [x] Basic folder structure
 - [x] Nativewind for styling
 - [x] Axios for network request
-- [] Zustand for state management
-- [] Expo Router for navigation
-- [] Error boundary
+- [x] Zustand for state management
+- [x] Error boundary
+- [x] Prettier
+- [ ] Expo Router for navigation
+
+
 
