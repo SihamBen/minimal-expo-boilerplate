@@ -6,10 +6,10 @@ The goal of this boilerplate is to provide a minimal setup to avoid the hassle o
 ## Features
 
 - [x] Typescript
-- [] Prettier
+- [x] Prettier
 - [x] Basic folder structure
 - [x] Nativewind for styling
-- [] Axios for network request
+- [x] Axios for network request
 - [] Zustand for state management
 - [] Expo Router for navigation
 - [] Error boundary
